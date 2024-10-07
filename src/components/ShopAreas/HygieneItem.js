@@ -33,22 +33,22 @@ export const HygieneItem = [
     },
     {
       src: "/img/All sun light/Hygiene/9.jpg",
-      title: "Gesalife polethelene elbow length gloves",
+      title: " polethelene elbow length gloves",
     },
     {
       src: "/img/All sun light/Hygiene/10.jpg",
-      title: "gesalife cut resistant gloves cut safe coated",
+      title: " cut resistant gloves cut safe coated",
     },
     {
       src: "/img/All sun light/Hygiene/11.jpg",
-      title: "Gesalife polyethelene visitor coat",
+      title: " polyethelene visitor coat",
     },
     {
       src: "/img/All sun light/Hygiene/12.jpg",
-      title: "gesalife non woven visitor coat",
+      title: " non woven visitor coat",
     },
     {
       src: "/img/All sun light/Hygiene/13.jpg",
-      title: "gesalife nonwoven coverall with hood",
+      title: " nonwoven coverall with hood",
     },
 ]
