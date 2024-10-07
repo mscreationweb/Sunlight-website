@@ -23,7 +23,7 @@ const AboutUsTwo = () => {
         <div className="row align-items-center">
           <div className="col-lg-6 order-0 order-lg-2">
             <div className="about-img-two text-center">
-              <img src="/img/All sun light/Image.webp" alt="" />
+              <img src="/img/images/aboutus.webp" alt="" />
             </div>
           </div>
           <div className="col-lg-6">
