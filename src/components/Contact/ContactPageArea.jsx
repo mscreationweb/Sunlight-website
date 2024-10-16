@@ -25,7 +25,7 @@ const ContactPageArea = () => {
                   <i className="fas fa-envelope"></i>
                 </div>
                 <div className="content">
-                  <a href="mailto:Sunlightsuae.com">Sunlightsuae.com</a>
+                  <a href="mailto:info@sunlightsuae.com">info@sunlightsuae.com</a>
                   {/* <a href="mailto:Envato@gmail.com">Envato@gmail.com</a> */}
                 </div>
               </div>
