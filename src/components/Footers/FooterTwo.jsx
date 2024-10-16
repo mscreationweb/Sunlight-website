@@ -26,7 +26,7 @@ const FooterTwo = () => {
                     </div>
                     <div className="content">
                       {/* <h4 className="title">Mail To Us</h4> */}
-                      <a href="mailto:Sunlightsuae.com">Sunlightsuae.com</a>
+                      <a href="mailto:info@sunlightsuae.com">info@sunlightsuae.com</a>
                     </div>
                   </div>
                 </div>
